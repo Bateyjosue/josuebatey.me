@@ -44,7 +44,7 @@ function Sidebar(className: className) {
           </li>
         </ul>
       </section>
-      <button className="bg-yellow-500 rounded-full w-1/2 py-2 font-bold shadow-2xl">Hire me</button>
+      <button className="bg-yellow-500 rounded-full w-1/2 py-2 font-bold shadow-[0_20px_50px_rgba(250,_250,_250,_0.5)]">Hire me</button>
     </div>
   )
 }
